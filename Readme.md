@@ -10,7 +10,7 @@
 - Able to upload files
 - Able to serve a fully static website.
 - Supports multiple CGIs.
-- Custom error pages
+- Custom error pages 
 - High availablity
 - Resilient! Server never dies :slightly_smiling_face:
 - `poll()` as the default event monitor
